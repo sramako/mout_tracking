@@ -1,0 +1,2 @@
+python video_facial_landmarks.py -p mod.dat
+python parser.py
